@@ -1,2 +1,3 @@
-# FSE
-Fundamentos de Sistemas Embarcados - 2025/2
+# Fundamentos de Sistemas Embarcados
+
+Repositório destinado aos exercícios da disciplina.
